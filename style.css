@@ -1,0 +1,28 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+
+*{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+.introduction img{
+    width:175px;
+    height: 175px;
+}
+
+.section{
+    margin:7rem 0;
+}
+
+.mw-500{
+    max-width: 500px;
+}
+
+h3 span{
+    background: linear-gradient(#ffffff 60%,#c8c7c7 30%);
+}
+
